@@ -1,0 +1,9 @@
+## Interface: 70200
+## Title: RollPlay
+## Author: BaileySonara
+## DefaultState: enabled
+## SavedVariables: RlPl_Buffs
+## SavedVariablesPerCharacter: RllPly
+
+Templates.xml
+core.lua
